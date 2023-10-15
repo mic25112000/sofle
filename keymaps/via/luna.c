@@ -23,7 +23,7 @@
 	#define KEYBOARD_PET
 	 
 	/* settings */
-	#define MIN_WALK_SPEED 10
+	#define MIN_WALK_SPEED 12
 	#define MIN_RUN_SPEED 40
 	 
 	/* advanced settings */
