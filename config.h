@@ -69,8 +69,8 @@
 
 // OLED settings
 #ifdef OLED_ENABLE
-	#define OLED_TIMEOUT 80000 //120000 = 2 minutes in ms.
-	#define OLED_BRIGHTNESS 90 // Default 100.
+	#define OLED_TIMEOUT 480000 //120000 = 2 minutes in ms.
+	#define OLED_BRIGHTNESS 100 // Default 100.
 	#define SPLIT_WPM_ENABLE //Enable WPM across split keyboards (+268).
 	#define SPLIT_OLED_ENABLE //Synx on/off OLED state between halves (+100).
 #endif
